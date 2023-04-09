@@ -1,0 +1,19 @@
+{
+  "name": "sunilsarraf",
+  "description": "Artist Website",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Sunil Sarraf"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
