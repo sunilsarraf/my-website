@@ -3,7 +3,7 @@ title: Sunil Sarraf
 email: "sunilsarraf14@gmail.com"
 description: "Artist Website"
 url: "https://sunilsarraf.github.io"
-baseurl: "/sunilsarraf.github.io"
+baseurl: ""
 facebook_username: "sunil.sarraf.5"
 twitter_username: ""
 instagram_username: "sunil.sarraf.5"
@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunilsarraf.github.io/sunilsarraf.github.io/gallery/"  
+  - GALLERY: "https://sunilsarraf.github.io/gallery/"  
   # - JOURNAL: "http://localhost:4000/journal/"
-  - ABOUT: "https://sunilsarraf.github.io/sunilsarraf.github.io/about/"
+  - ABOUT: "https://sunilsarraf.github.io/about/"
 
 # All translation keys
 translations:
